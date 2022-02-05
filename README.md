@@ -1,4 +1,2 @@
 # Yash Ekbote
-###### I'm a 17 Years old Wed Developer & Youtube Video Creator.
-
-Follow me on [twitter](twitter.com/ekboteyash)
+[Twitter](twitter.com/ekboteyash) [YouTube](youtube.com/FriendlyCoder) [LinkedIn](linkedin.com/in/yashekbote)
