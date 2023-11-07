@@ -8,13 +8,13 @@ Myself Yash Ekbote (@yashekbote), I'm an 19 Year old Blockchain & AI Researcher.
 
 ## Stuff Built 
 
-#### Apocalypto AI - [HERE](https://aiapocalypto.com/)
+#### - Apocalypto AI - [HERE](https://aiapocalypto.com/)
 AI Storyline based NFT Project
 
-#### Metamorphlabs - [HERE](https://metamorphlabs.xyz/) (Under maintenance)
+#### - Metamorphlabs - [HERE](https://metamorphlabs.xyz/) (Under maintenance)
 Fine Tunning AI models for peak accuracy
 
-#### Web3 Suggest - [HERE](https://web3suggest.xyz/)
+#### - Web3 Suggest - [HERE](https://web3suggest.xyz/)
 Blockchain Resources Aggregator, built using No-Code (Notion)
 
 <br/>
