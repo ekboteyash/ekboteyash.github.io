@@ -1,21 +1,27 @@
-[LinkedIn](https://www.linkedin.com/in/yashekbote/) | [Twitter](https://twitter.com/yashekbote) | [YouTube](https://www.youtube.com/@yashekbote) 
+[LinkedIn](https://www.linkedin.com/in/yashekbote/) | [Twitter](https://twitter.com/yashekbote) | [YouTube](https://www.youtube.com/@yashekbote) | [Blog](https://mirror.xyz/0x186bad361FA4094121AA709A52842596632d2a65)
 
 # About Yash
 
-Myself Yash Ekbote (@yashekbote), I'm an 19 Year old Blockchain & AI Researcher. I like building Products, Sipping Coffee & Creating Content 
+Myself Yash Ekbote (@yashekbote), I'm an 19 Year old Blockchain & AI Researcher. I like building Products, Sipping Coffee & Creating Content.
 
 <br/>
 
 ## Stuff Built 
 
-#### - Apocalypto AI - [HERE](https://aiapocalypto.com/)
-AI Storyline based NFT Project
+#### - NeuralNxt - [Here](https://neuralnxt.xyz/) Solo (Not Live)
+Generate Quick Code Snippets using AI for variety of usecases
 
-#### - Metamorphlabs - [HERE](https://metamorphlabs.xyz/) (Under maintenance)
-Fine Tunning AI models for peak accuracy
+#### - AI Apocalypto - [HERE](https://aiapocalypto.com/) Under Team
+World's First AIverse with Incentivized NFT Support for members & storyline based on AI
 
-#### - Web3 Suggest - [HERE](https://web3suggest.xyz/)
-Blockchain Resources Aggregator, built using No-Code (Notion)
+#### - EtherSync - [Here](https://ethersync.xyz/) Solo (Not Live)
+Explore Ecosystem of 60+ Blockchains at one place & complete tasks to earn token rewards
+
+#### - Metamorphlabs - [HERE](https://metamorphlabs.xyz/) Solo
+SaaS with Compiled & Curated all the Technical & Non-techincal AI Focused Resources.
+
+#### - Web3 Suggest - [HERE](https://web3suggest.xyz/) Under QuillAudits Team
+Blockchain Resources Aggregator, built using Notion for Directory & Supersite Web Extension
 
 <br/>
 
@@ -29,13 +35,15 @@ Blockchain Resources Aggregator, built using No-Code (Notion)
 
 #### Web3.0 & Centralization aspects - [HERE](https://youtu.be/ZshnVUA7_Dg?feature=shared)
 
+#### More on [YouTube](https://www.youtube.com/@ekboteyash)
+
 <br/>
 
 ## Work Experience
 
 #### - [**Seracle**](https://www.seracle.com), New York : Developer Relations & Growth
 
-Blockchain RPC Nodes & API Providers
+Blockchain OpenRPC Nodes & API Providers
 
 #### - [**Techfund**](https://techfund.jp), Japan : Growth & Community Evangelist 
 
