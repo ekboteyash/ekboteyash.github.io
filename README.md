@@ -12,14 +12,14 @@ Myself Yash [(@yashekbote)](https://twitter.com/yashekbote), I'm an 20 Year old 
 
 ## Products Worked On
 
-#### - [AI Apocalypto](https://aiapocalypto.com/) Founding Project Manager
+#### - [AI Apocalypto](https://aiapocalypto.com/)
 World's First AI based Metaverse with NFT Support for members. 
-Used Generative AI Models & Built upon Blast a Layer 2 EVM Compatible Blockchain
+Used Generative AI Models & Built upon Blast a Layer 2 EVM Compatible Blockchain (Raised Seed Round)
 
-#### - [Metamorphlabs](https://metamorphlabs.xyz/) Founder
+#### - [Metamorphlabs](https://metamorphlabs.xyz/)
 Compiled Datasets, Pre-trained ML Models, Research Papers, Libraries, Tools & Stuff regarding AI & ML at one place.
 
-#### - [Web3 Suggest](https://web3suggest.xyz/) (By QuillAudits - Product & Research)
+#### - [Web3 Suggest](https://web3suggest.xyz/)
 Blockchain Resources Aggregator, built using Notion for Directory & Supersite Web Extension
 
 #### - [Yash's Tech Pod](http://www.youtube.com/@yashekbote)
