@@ -1,35 +1,23 @@
-[LinkedIn](https://www.linkedin.com/in/yashekbote/) | [Twitter](https://twitter.com/yashekbote) | [YouTube](https://www.youtube.com/@yashekbote) | [Blog](https://mirror.xyz/0x186bad361FA4094121AA709A52842596632d2a65)
-
 # About Yash
 
-Myself Yash Ekbote (@yashekbote), I'm an 19 Year old Blockchain & AI Researcher. I like building Products, Sipping Coffee & Creating Content.
+Myself Yash Ekbote [(@yashekbote)](https://twitter.com/yashekbote), I'm an 20 Year old Blockchain & AI Researcher. Currently Ecosystem Engineer at [Seracle Labs](https://www.seracle.com/) working on OpenRPC's & API's for Blockchains, Rollups & Indexers and also working on [Credible Finance](https://www.credible.finance/) (Real World Asset Tokenization Protocol on Solana). Previously worked as Developer Relations Engineer at [QuillAudits](https://www.quillaudits.com/smart-contract-audit) a Leading Blockchain Smart Contract Audit Firm.
 
 <br/>
 
-## Stuff Built 
+## Products Worked On
 
-#### - AI Apocalypto - [HERE](https://aiapocalypto.com/) Under Team
-World's First AIverse with Incentivized NFT Support for members & storyline based on AI
+#### - [AI Apocalypto](https://aiapocalypto.com/) Founding Project Manager
+World's First AI based Metaverse with NFT Support for members. 
+Used Generative AI Models & Built upon Blast a Layer 2 EVM Compatible Blockchain
 
-#### - Metamorphlabs - [HERE](https://metamorphlabs.xyz/) Solo
-SaaS with Compiled & Curated all the Technical & Non-techincal AI Focused Resources.
+#### - [Metamorphlabs](https://metamorphlabs.xyz/) Founder
+Compiled Datasets, Pre-trained ML Models, Research Papers, Libraries, Tools & Stuff regarding AI & ML at one place.
 
-#### - Web3 Suggest - [HERE](https://web3suggest.xyz/) Under QuillAudits Team
+#### - [Web3 Suggest](https://web3suggest.xyz/) (By QuillAudits - Product & Research)
 Blockchain Resources Aggregator, built using Notion for Directory & Supersite Web Extension
 
+#### - [Yash's Tech Pod](http://www.youtube.com/@yashekbote)
+A Podcast where Web3 & AI Founders shares deep Insights about the Industry aspects & what they are building.
+Currently has 140K+ Views & 2.1K+ Subscribers, Live on [Youtube](http://www.youtube.com/@yashekbote) & [Spotify](https://open.spotify.com/show/0UbfjWFYEGNJGjY1eNMqqS).
 
-<br/>
 
-## Work Experience
-
-#### - [**Seracle**](https://www.seracle.com), New York : Developer Relations & Growth
-
-Blockchain OpenRPC Nodes & API Providers
-
-#### - [**Techfund**](https://techfund.jp), Japan : Growth & Community Evangelist 
-
-Web3.0 Venture Capital & Accelerator 
-
-#### - [**QuillAudits**](https://audits.quillhash.com/smart-contract-audit), Dubai : Developer Relations Lead
-
-Blockchain Smart Contract Auditing Firm
