@@ -2,6 +2,8 @@
 
 Myself Yash [(@yashekbote)](https://twitter.com/yashekbote), I'm an 20 Year old Blockchain & AI Researcher. Currently Ecosystem Engineer at [Seracle Labs](https://www.seracle.com/) working on OpenRPC's & API's for Blockchains, Rollups & Indexers and also working on [Credible Finance](https://www.credible.finance/) (Real World Asset Tokenization Protocol on Solana). Previously worked as Developer Relations Engineer at [QuillAudits](https://www.quillaudits.com/smart-contract-audit) a Leading Blockchain Smart Contract Audit Firm.
 
+![alt text](file:///Users/yashekbote/Downloads/1OI8dxfA_400x400.jpg)
+
 <br/>
 
 ## Products Worked On
