@@ -5,7 +5,7 @@
 
 
 
-• Myself Yash I'm a 20 Years old Blockchain & AI Enthusiasts, love to build products & sip coffee. 
+• Myself Yash I'm a 20 Years old Blockchain & AI Enthusiast, love to build products & sip coffee. 
 <br/>
 • Currently Ecosystem Manager at [Seracle Labs](https://www.seracle.com/) working on OpenRPC's & API's for Blockchains, Rollups & Indexers.
 <br/>
