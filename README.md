@@ -30,4 +30,4 @@ Currently has 140K+ Views & 2.1K+ Subscribers, Live on [Youtube](http://www.yout
 
 # Contact
 
-DM me on Twitter [@yashekbote](https://twitter.com/yashekbote) or mail at yashekbote.official@gmail.com
+DM me on Twitter [@yashekbote](https://twitter.com/yashekbote) or mail at yash@metamorphlabs.xyz
