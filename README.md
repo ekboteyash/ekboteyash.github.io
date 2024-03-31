@@ -1,4 +1,4 @@
-# About
+# Yash Ekbote
 
 Myself Yash I'm a 20 Years old Blockchain & AI Researcher. Currently Ecosystem Manager at [Seracle Labs](https://www.seracle.com/) working on OpenRPC's & API's for Blockchains, Rollups & Indexers and also working on Seracle's Product [Credible Finance](https://www.credible.finance/) a Real World Asset Tokenization Protocol on Solana. Previously worked as Developer Relations Manager at [QuillAudits](https://www.quillaudits.com/smart-contract-audit) a Leading Blockchain Smart Contract Audit Firm.
 
